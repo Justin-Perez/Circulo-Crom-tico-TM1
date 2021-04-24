@@ -1,1 +1,0 @@
-# Circulo-Cromático-TM1
